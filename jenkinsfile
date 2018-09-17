@@ -1,5 +1,5 @@
 node {
-    stage('SVM') {
+    stage('SCM') {
        git 'https://github.com/Aditya0429/game-of-life.git'
     }  
     
